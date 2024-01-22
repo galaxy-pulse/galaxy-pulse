@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madison "Maddy" Owen -- @galaxy-pulse
 - 👀 I’m interested in a software enginnering position that will let me grow
-- 🌱 I’m currently learning Spring Boot, Quarkus, and GCP
+- 🌱 I’m currently learning Kotlin
 - 💞️ I'm also a published author with a love for fantasy, scifi, romance, and steampunk -- my author alias is S.R. Morton
 - 📫 How to reach me:
 -     Email: m.owen.writing@gmail.com
